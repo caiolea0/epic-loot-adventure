@@ -1,0 +1,136 @@
+{
+  "world": "Setting: Earth, decades after a solar superflare scorched the planet and killed 97% of humanity. The survivors are 3% who were shielded underground or by chance. Everything the old world built was left where it stood — factories, bunkers, airports, power plants, rail yards — and is now a prize worth holding, because whoever controls one trades with the scattered settlements. Plants came back wrong: too fast, too large, bleached or over-saturated. Animals came back wrong too. The sky still carries the scar: a hard, high sun and a permanent coppery haze near the horizon.",
+  "negative": "No text, no letters, no numbers, no logos, no watermark, no UI, no HUD, no frame, no borders, no collage, no split panels unless asked, no photorealistic human faces in close-up, no modern intact cities, no snow.",
+  "sheets": [
+    {
+      "id": "style-a-lowpoly",
+      "group": "Direção de arte",
+      "label": "A — Low-poly refinado",
+      "note": "Evolução direta do que o jogo já tem: formas simples, mas com materiais e luz de verdade.",
+      "shared": "Art direction A: refined low-poly. Clean faceted geometry, flat-shaded planes with soft gradient lighting, readable silhouettes, restrained palette of dusty ochre, bleached bone, oxidised copper and deep pine. Stylised but grounded — think a high-end isometric strategy game, not mobile-casual. Soft ambient occlusion in the crevices, a single warm key light low on the horizon.",
+      "shots": [
+        "wide establishing shot of a ruined coastal refinery half-swallowed by bleached scrub, tanks split open, catwalks sagging",
+        "a lone survivor in layered scavenged cloth and a welded steel mask, seen from behind at three-quarter, walking a cracked highway",
+        "a fortified settlement gate built from shipping containers and truck plating, a watchtower above it, banners of dyed cloth",
+        "a mutated elk-like beast with overgrown antlers of bone and metal slag, standing in tall pale grass"
+      ]
+    },
+    {
+      "id": "style-b-painterly",
+      "group": "Direção de arte",
+      "label": "B — Pintado à mão",
+      "note": "Textura pintada, mais quente e orgânica. Mais caro de produzir, mais alma.",
+      "shared": "Art direction B: hand-painted stylised realism. Visible brushwork in the textures, warm painterly light, atmospheric depth haze, rich but desaturated palette with one saturated accent per frame. Chunky believable proportions, materials read clearly — rusted steel, sun-bleached concrete, oiled leather, scorched earth. Think a painted concept frame for a AAA survival game.",
+      "shots": [
+        "wide establishing shot of a ruined coastal refinery half-swallowed by bleached scrub, tanks split open, catwalks sagging",
+        "a lone survivor in layered scavenged cloth and a welded steel mask, seen from behind at three-quarter, walking a cracked highway",
+        "a fortified settlement gate built from shipping containers and truck plating, a watchtower above it, banners of dyed cloth",
+        "a mutated elk-like beast with overgrown antlers of bone and metal slag, standing in tall pale grass"
+      ]
+    },
+    {
+      "id": "style-c-celshaded",
+      "group": "Direção de arte",
+      "label": "C — Cel-shaded gráfico",
+      "note": "Contorno marcado e sombra em blocos. Lê muito bem em tela pequena e em movimento.",
+      "shared": "Art direction C: graphic cel-shading. Bold dark outlines, hard two-step shadow terminator, flat colour fills with halftone or hatching in the shadow band, strong poster-like composition. Limited palette: scorched orange, ash grey, bone white, toxic teal. High contrast, almost printed. Think a stylish comic adaptation of a post-apocalyptic game.",
+      "shots": [
+        "wide establishing shot of a ruined coastal refinery half-swallowed by bleached scrub, tanks split open, catwalks sagging",
+        "a lone survivor in layered scavenged cloth and a welded steel mask, seen from behind at three-quarter, walking a cracked highway",
+        "a fortified settlement gate built from shipping containers and truck plating, a watchtower above it, banners of dyed cloth",
+        "a mutated elk-like beast with overgrown antlers of bone and metal slag, standing in tall pale grass"
+      ]
+    },
+    {
+      "id": "style-d-gritty",
+      "group": "Direção de arte",
+      "label": "D — Realismo sujo",
+      "note": "O mais pesado e adulto dos quatro. Mais difícil de manter consistente em volume.",
+      "shared": "Art direction D: gritty grounded realism, slightly stylised proportions. Physically believable materials, heavy weathering, dust in the air catching the light, volumetric god rays through the copper haze. Muted earth palette with hard specular hits on wet metal. Cinematic wide lens, deep focus. Think a prestige post-apocalyptic series.",
+      "shots": [
+        "wide establishing shot of a ruined coastal refinery half-swallowed by bleached scrub, tanks split open, catwalks sagging",
+        "a lone survivor in layered scavenged cloth and a welded steel mask, seen from behind at three-quarter, walking a cracked highway",
+        "a fortified settlement gate built from shipping containers and truck plating, a watchtower above it, banners of dyed cloth",
+        "a mutated elk-like beast with overgrown antlers of bone and metal slag, standing in tall pale grass"
+      ]
+    },
+    {
+      "id": "city-industrial",
+      "group": "Cidades do jogador",
+      "label": "Cidade — Complexo Industrial",
+      "note": "Perfil: metal e manufatura. Produz liga, peças e munição.",
+      "shared": "Isometric three-quarter view from above of a player-held settlement, the whole base readable in one frame, sitting on its plot of scorched ground with the wasteland around it. Refined low-poly with real materials and a warm low key light. The architecture must look RECLAIMED, not newly built: old industrial bones repaired with scavenged plating, cloth, and timber.",
+      "shots": [
+        "a captured factory complex: a long sawtooth-roof workshop with half its skylights patched in mismatched metal, two smelter stacks breathing thin smoke, a scrap sorting yard, a perimeter of welded container walls with a single heavy gate",
+        "the same factory complex at a higher tier: the roof fully re-clad, a third stack added, a crane gantry over the yard, watchtowers at two corners, cables and floodlights strung overhead, molten orange glow from the smelter mouth",
+        "a captured water-treatment plant: round settling tanks turned into cisterns, pipework running to a hand-built aqueduct, green growth deliberately cultivated on the tank rims, a pumphouse with a patched roof",
+        "a captured rail yard: a roundhouse turned into a hall, flatcars repurposed as walls, a signal tower as a lookout, rails fanning out into the dust"
+      ]
+    },
+    {
+      "id": "city-bunker",
+      "group": "Cidades do jogador",
+      "label": "Cidade — Bunker / Aeroporto",
+      "note": "Perfil: defesa e logística. Aguenta cerco, move tropa longe.",
+      "shared": "Isometric three-quarter view from above of a player-held settlement, the whole base readable in one frame, sitting on its plot of scorched ground with the wasteland around it. Refined low-poly with real materials and a warm low key light. The architecture must look RECLAIMED, not newly built: old infrastructure repaired with scavenged plating, cloth, and timber.",
+      "shots": [
+        "a cold-war bunker complex reopened: a concrete blast entrance cut into a hillside, ventilation towers, a fenced surface camp of tents and antennae above it, blast doors propped open with steel beams",
+        "an airport terminal turned fortress: the terminal shell re-roofed, a control tower as the keep, aircraft fuselages cut open and used as barracks, the apron fenced into a drill yard",
+        "a hydroelectric dam settlement: the dam wall as the back of the base, turbine house as the core, cable cars running down to a lower camp, floodlights powered from the plant",
+        "a hilltop radio array: a huge dish repurposed as a roof over a plaza, mast with scavenged antennae, a ring of low bunkers, long shadows at dusk"
+      ]
+    },
+    {
+      "id": "characters",
+      "group": "Personagens",
+      "label": "Personagens — Os 3%",
+      "note": "Humanos não afetados. Roupa é função, não moda.",
+      "shared": "Full-body character concept, three-quarter view, standing in a neutral confident pose, plain dark background, consistent flat studio lighting so the silhouette reads clearly. Refined low-poly stylisation with real material definition. Clothing is layered, functional, repaired many times — nothing clean, nothing symmetrical, no fashion. Palette of dust, rust, bone and one faded dyed accent per character.",
+      "shots": [
+        "a scavenger: wrapped head and face against the sun, goggles, a long patched coat over plated shoulders, climbing harness, a crowbar and a coil of rope",
+        "a trader of the settlements: heavier build, layered robes over a reinforced vest, a ledger chained at the belt, rings of trade tokens, one good lens over an eye",
+        "a warden of a holding: welded scrap plate over the chest and shins, a slab shield cut from a vehicle door, a helmet made from a fuel tank, a heavy wrench as a weapon",
+        "a signal runner: light and lean, stripped-down gear for speed, a satchel of radio parts, a whip antenna on the back, wrapped feet and shins"
+      ]
+    },
+    {
+      "id": "mutants",
+      "group": "Personagens",
+      "label": "Criaturas e tropas",
+      "note": "Mutação e sucata. O que ataca sua cidade e o que você fabrica pra defender.",
+      "shared": "Full-body creature concept, three-quarter view, plain dark background, consistent flat studio lighting so the silhouette reads clearly. Refined low-poly stylisation with real material definition. Mutation reads as growth gone wrong — asymmetry, extra mass, bleached or over-saturated tissue, bone pushing through — never as cartoon monster.",
+      "shots": [
+        "a mutated pack predator the size of a bull, hairless and pale, over-long forelimbs, a crest of exposed bone along the spine, milky eyes",
+        "a mutated human: tall and wrong-proportioned, one arm grossly overgrown and plated with keratin, scavenged cloth stretched over it, still wearing the remains of a work uniform",
+        "a scrap-built war beast: a four-legged walker welded from engine blocks and truck axles, a cockpit cage where a rider sits, exhaust stacks venting",
+        "a scavenged drone unit: a hovering armoured disc with a sensor cluster underneath, patched plating, cable tendrils hanging, a soft glowing eye"
+      ]
+    },
+    {
+      "id": "landscapes",
+      "group": "Cenários",
+      "label": "Cenários do mapa aberto",
+      "note": "O que o jogador atravessa entre uma cidade e outra.",
+      "shared": "Wide cinematic establishing shot of the open world, strong depth with a clear foreground, midground and horizon. Refined low-poly stylisation with real atmosphere: dust haze, long shadows, a hard high sun and a coppery band near the horizon. No characters, or at most one tiny distant figure for scale.",
+      "shots": [
+        "a scorched plain of cracked earth and bleached grass, the skeletons of wind turbines leaning at angles, a dry riverbed cutting through",
+        "an overgrown forest where the trees came back wrong: too tall, too pale, trunks fused, a collapsed highway overpass being pulled apart by roots",
+        "a dead suburb half buried in drifted ash, roofs caved, a drowned street where water has pooled and turned green, one intact water tower",
+        "the mouth of a dungeon: a collapsed metro entrance going down into the dark, warning markings long faded, debris and scavenger camps around the lip"
+      ]
+    },
+    {
+      "id": "map-and-combat",
+      "group": "Sistemas",
+      "label": "Mapa e confronto",
+      "note": "Como o mapa estratégico e o combate por lanes podem parecer.",
+      "shared": "Game art concept, clean composition, no interface chrome and no text of any kind. Refined low-poly stylisation with warm atmospheric light.",
+      "shots": [
+        "a strategic world map seen from very high above at a slight angle: scorched terrain with visible holdings as small lit clusters, roads and rail lines connecting them, a dust storm rolling over one region",
+        "three parallel approach corridors across broken ground toward a fortified holding, natural cover between them, the base's towers visible at the far end — a lane-based assault read in one image",
+        "an attack in progress on a player holding at dusk: attackers advancing up one corridor, defensive towers firing, a breach in the container wall, fire and smoke, defenders silhouetted on the parapet",
+        "the aftermath: a holding partly burned and being repaired at dawn, scaffolding up, salvage carts, smoke still rising from one building"
+      ]
+    }
+  ]
+}
